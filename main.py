@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 
 
-class LsbEncryptor:
+class LsbSteg:
 
 
     def modify_data(self, data, ptext):
